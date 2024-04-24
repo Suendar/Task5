@@ -1,0 +1,6 @@
+2. Key Points:
+
+Test Scenario: A high-level description of what needs to be tested. It represents a particular functionality or feature of the application.
+Test Case: A detailed set of conditions or steps to be followed to test a particular scenario. It includes inputs, expected results, and actual results.
+Test Strategy and Plan: Test strategy outlines the overall approach for testing, including scope, objectives, resources, schedule, and risks. Test plan defines specific details like test cases, test environments, test data, responsibilities, and timelines.
+Test Summary Report: A document summarizing the test results, including the number of tests executed, passed, failed, and any defects found during testing.
